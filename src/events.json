@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2025-06-25",
+    "startTime": "00:00",
+    "endTime": "01:30",
+    "type": "Meeting",
+    "color": "#d32f2f",
+    "title": "Daily Standup"
+  },
+  {
+    "date": "2025-06-27",
+    "startTime": "01:30",
+    "endTime": "02:00",
+    "type": "Meeting",
+    "color": "#d32f2f",
+    "title": "Team Sync"
+  },
+  {
+    "date": "2025-06-27",
+    "startTime": "02:00",
+    "endTime": "03:00",
+    "type": "Reminder",
+    "color": "#f6be23",
+    "title": "Project Review"
+  },
+  {
+    "date": "2025-06-26",
+    "startTime": "03:00",
+    "endTime": "04:00",
+    "type": "Personal",
+    "color": "#388e3c",
+    "title": "Code Review"
+  }
+]
